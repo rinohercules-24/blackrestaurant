@@ -22,4 +22,5 @@ h1,h2,h3,p{
 }
 footer{
     padding-bottom: 0px;
+    position: relative;
 }
