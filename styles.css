@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(31, 30, 30);
+}
 .menu_options{
     align-self: center;
+    background-color: black;
 }
