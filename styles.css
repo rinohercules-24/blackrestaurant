@@ -1,5 +1,6 @@
 body{
     background-color: rgb(31, 30, 30);
+    color: white;
 }
 .menu_options{
     align-self: center;
@@ -10,4 +11,8 @@ body{
     width: 10px;
     height: 10px;
     position: relative;
+}
+
+#line1{
+    color: white;
 }
